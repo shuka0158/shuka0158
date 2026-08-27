@@ -84,9 +84,8 @@ Since     : 2023
 [![Top project](https://img.shields.io/github/stars/shuka0158/ARF-Shuka-Edition?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Top%20project%20%E2%98%85)](https://github.com/shuka0158/ARF-Shuka-Edition/stargazers)
 [![Since](https://img.shields.io/badge/On%20GitHub-since%202023-00b4d8?style=for-the-badge&labelColor=0d1117)](https://github.com/shuka0158)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=shuka0158&hide_border=true&background=0d1117&stroke=1e1e1e&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00&sideNums=c9d1d9&sideLabels=c9d1d9&dates=666677&currStreakNum=c9d1d9" alt="streak"/>
+[![Commits](https://img.shields.io/github/commit-activity/y/shuka0158/ARF-Shuka-Edition?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=Firmware%20commits%2Fyr)](https://github.com/shuka0158/ARF-Shuka-Edition/commits)
+[![Last commit](https://img.shields.io/github/last-commit/shuka0158/ytm-tui?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=Last%20push)](https://github.com/shuka0158?tab=repositories)
 
 </div>
 
