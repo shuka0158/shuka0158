@@ -99,12 +99,14 @@ Since     : 2023
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shuka0158&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=00b4d8&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuka0158&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshuka0158&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=ff6b00&labelColor=0d1117)](https://github.com/shuka0158?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/shuka0158?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Followers)](https://github.com/shuka0158?tab=followers)
+[![Top project](https://img.shields.io/github/stars/shuka0158/ARF-Shuka-Edition?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Top%20project%20%E2%98%85)](https://github.com/shuka0158/ARF-Shuka-Edition/stargazers)
+[![Since](https://img.shields.io/badge/On%20GitHub-since%202023-00b4d8?style=for-the-badge&labelColor=0d1117)](https://github.com/shuka0158)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuka0158&hide_border=true&background=0d1117&stroke=1e1e1e&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00&sideNums=c9d1d9&sideLabels=c9d1d9&dates=666677&currStreakNum=c9d1d9" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=shuka0158&hide_border=true&background=0d1117&stroke=1e1e1e&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00&sideNums=c9d1d9&sideLabels=c9d1d9&dates=666677&currStreakNum=c9d1d9" alt="streak"/>
 
 </div>
 
