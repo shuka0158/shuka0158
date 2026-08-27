@@ -77,8 +77,6 @@ Since     : 2023
 
 ---
 
----
-
 <div align="center">
 
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshuka0158&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=ff6b00&labelColor=0d1117)](https://github.com/shuka0158?tab=repositories)
