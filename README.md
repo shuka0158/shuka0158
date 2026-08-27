@@ -4,7 +4,7 @@
 
 # Heisenberg
 
-**`@shuka0158`** · Tbilisi, Georgia 🇬🇪
+**`@shuka0158`**
 
 *I build Flipper Zero firmware, radio tools, browser games, and things that probably shouldn't exist.*
 
@@ -19,12 +19,11 @@
 
 ## whoami
 
-Self-taught developer from Georgia. Started at absolute zero with HTML, CSS and Bash — now I write **C firmware for the Flipper Zero**, **sub-GHz radio tooling**, **full-stack apps on Next.js + Firebase**, and **multiplayer browser games**. No CS degree, no bootcamp; just a soldering iron, a Linux box, and a stubborn refusal to leave a thing half-working.
+Self-taught developer. Started at absolute zero with HTML, CSS and Bash — now I write **C firmware for the Flipper Zero**, **sub-GHz radio tooling**, **full-stack apps on Next.js + Firebase**, and **multiplayer browser games**. No CS degree, no bootcamp; just a soldering iron, a Linux box, and a stubborn refusal to leave a thing half-working.
 
 Most of what I ship starts as *"can this hardware actually do that?"* and ends as a repo.
 
 ```text
-Location  : Tbilisi, Georgia
 Daily     : C · Python · TypeScript · Bash
 Hardware  : Flipper Zero · CC1101 · Raspberry Pi 5 · LilyGO T-Deck+ · Arduino
 Editor    : tmux + Neovim, RGB keyboard, lights off
@@ -78,23 +77,6 @@ Since     : 2023
 
 ---
 
-## The lab
-
-> Where the repos actually come from.
-
-- **Flipper Zero** — orange silicone case, custom firmware, permanently mid-experiment
-- **LilyGO T-Deck+** — Meshtastic mesh detector; off-grid radio in a BlackBerry shell
-- **Raspberry Pi 5 + CC1101** — the real sub-GHz transceiver behind FlipperPi
-- **Handheld VHF/UHF radio** — 145.850 / 430.000 MHz, scanning
-- **Rooted Android + Termux** — Linux in a pocket
-- **Arduino UNO, M5Stack GPS, ESP modules** — the bench pile
-
----
-
-## Currently learning
-
-`C / embedded systems` · `RF & radio protocols` · `game development` · `advanced TypeScript`
-
 ---
 
 <div align="center">
@@ -118,6 +100,6 @@ Since     : 2023
 
 **GitHub** [@shuka0158](https://github.com/shuka0158) · **ShukaHub** [@shuka0158](https://shukahub.com/) · **Discord** `shuka0158`
 
-<sub>Built and broken in Tbilisi.</sub>
+<sub>Built and broken at 3am.</sub>
 
 </div>
