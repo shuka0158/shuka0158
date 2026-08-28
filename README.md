@@ -6,7 +6,7 @@
 
 **`@shuka0158`**
 
-*I build Flipper Zero firmware, radio tools, browser games, and things that probably shouldn't exist.*
+*I build Flipper Zero firmware, radio tools, browser games, and other strange things.*
 
 [![Bio](https://img.shields.io/badge/Bio-shuka0158.github.io-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://shuka0158.github.io/Bio/)
 [![ShukaHub](https://img.shields.io/badge/ShukaHub-shukahub.com-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://shukahub.com/)
