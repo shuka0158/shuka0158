@@ -23,12 +23,7 @@ Self-taught developer. Started at absolute zero with HTML, CSS and Bash — now 
 
 Most of what I ship starts as *"can this hardware actually do that?"* and ends as a repo.
 
-```text
-Daily     : C · Python · TypeScript · Bash
-Hardware  : Flipper Zero · CC1101 · Raspberry Pi 5 · LilyGO T-Deck+ · Arduino
-Editor    : tmux + Neovim, RGB keyboard, lights off
-Since     : 2023
-```
+
 
 ---
 
