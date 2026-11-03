@@ -1,147 +1,103 @@
-# Hi, I'm Shuka! 👋
+<div align="center">
 
-🔍 **OSINT Researcher & Developer**  
-🇬🇪 Based in Georgia | Building intelligence tools  
-💻 Python • JavaScript • Security Research
+<img src="https://avatars.githubusercontent.com/u/136567549?v=4" width="120" height="120" style="border-radius:50%" alt="shuka0158"/>
 
----
+# Heisenberg
 
-## 🚀 Featured Project: Keftemulator
+**`@shuka0158`**
 
-### **Keftemulator — Unified OSINT Platform**
+*I build Flipper Zero firmware, radio tools, browser games, and other strange things.*
 
-A powerful **61-module OSINT framework** that combines native intelligence modules with the best open-source tools. Perfect for security researchers, penetration testers, and investigators.
+[![Bio](https://img.shields.io/badge/Bio-shuka0158.github.io-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://shuka0158.github.io/Bio/)
+[![ShukaHub](https://img.shields.io/badge/ShukaHub-shukahub.com-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://shukahub.com/)
+[![Discord](https://img.shields.io/badge/Discord-shuka0158-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/shuka0158)
+[![Followers](https://img.shields.io/github/followers/shuka0158?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Followers)](https://github.com/shuka0158?tab=followers)
 
-**🔗 Repository:** https://github.com/shuka0158/Keftemulator
-
-### Key Features
-
-✨ **61 Intelligence Modules**
-- 10 Georgian-specific tools (NAPR, cadastre, tax, courts, business registry)
-- 9 Security & threat intelligence modules
-- 8 Email & breach databases
-- 10 Company & financial intelligence
-- 6 Social media & people search
-- 5+ Network reconnaissance tools
-
-🎯 **One-Click Setup**
-```bash
-git clone https://github.com/shuka0158/Keftemulator.git
-cd Keftemulator
-bash setup.sh    # Interactive API key setup
-bash run.sh      # Start at http://127.0.0.1:5050
-```
-
-🌍 **What It Does**
-- **Universal OSINT**: Search username, email, domain, IP, phone, name, company, plate, VIN, image
-- **Recursive Pivoting**: Automatically discover connected entities (SpiderFoot-style)
-- **Interactive Visualization**: Link-analysis graph (Maltego-style) + map view
-- **Case Management**: Group and merge multiple scans
-- **Scheduled Monitors**: Track targets with change alerts
-- **Georgian Intelligence**: NAPR registry, property records, tax lookup, court filings
-
-📊 **61 Data Sources**
-- Sherlock (400+ sites) • Maigret (3000+ sites)
-- GitHub • Telegram • Wikidata • crt.sh
-- Shodan • VirusTotal • AbuseIPDB
-- Wayback Machine • URLScan • IntelX
-- Georgian: NAPR • Cadastre • Court System
-
-🔐 **Privacy First**
-- ✅ Run locally (data stays on your machine)
-- ✅ No cloud upload
-- ✅ SQLite database with encryption
-- ✅ Free API integrations
-
-📱 **Mobile-Responsive Dark UI**
-- Works on desktop, tablet, phone
-- Beautiful graph visualization
-- Full-text search
-- Dark theme
-
-### Quick Start
-
-```bash
-# 1. Clone
-git clone https://github.com/shuka0158/Keftemulator.git
-cd Keftemulator
-
-# 2. Setup (interactive)
-bash setup.sh
-
-# 3. Run
-bash run.sh
-
-# 4. Open browser
-http://127.0.0.1:5050
-```
-
-### Example Searches
-
-- **Username**: `torvalds` → Finds GitHub profile, commits, emails, related accounts
-- **Email**: `user@example.com` → Breaches, social media, company info
-- **Domain**: `example.com` → DNS, IP, SSL certs, Wayback snapshots, related domains
-- **Company**: `SwissCapital` → NAPR registry, directors, court records, financial data
-- **Phone**: `+995 555 123456` → Georgian lookups, carrier, related searches
-- **Plate**: `AB-123-CD` → Vehicle photos, Georgian registries
-
-### Documentation
-
-📖 **[INSTALL.md](https://github.com/shuka0158/Keftemulator/blob/master/INSTALL.md)** - Detailed setup & API key guide  
-📚 **In-app Guide** - Click **?** button for full user guide  
-💡 **GitHub Wiki** - (Coming soon)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## whoami
 
-**Backend:**
-- Python 3.12
-- Flask + Waitress
-- SQLite (WAL mode)
-- ThreadPoolExecutor (parallel scanning)
+Self-taught developer. Started at absolute zero with HTML, CSS and Bash — now I write **C firmware for the Flipper Zero**, **sub-GHz radio tooling**, **full-stack apps on Next.js + Firebase**, and **multiplayer browser games**. No CS degree, no bootcamp; just a soldering iron, a Linux box, and a stubborn refusal to leave a thing half-working.
 
-**Frontend:**
-- Vanilla JavaScript (SPA)
-- Cytoscape.js (graph visualization)
-- Leaflet.js (map)
-- Dark theme CSS
+Most of what I ship starts as *"can this hardware actually do that?"* and ends as a repo.
 
-**Infrastructure:**
-- Tailscale Funnel (public hosting)
-- Systemd user services (auto-boot)
-- Docker-ready (planned)
+
 
 ---
 
-## 📊 Project Stats
+## Toolbox
 
-- **61 modules** across 40+ intelligence sources
-- **1000+ files** in codebase
-- **Tested on:** Linux, WSL, Mac
-- **License:** Open Source (OSINT research)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
-## 🔗 Connect
-
-- **GitHub**: [@shuka0158](https://github.com/shuka0158)
-- **Keftemulator Repo**: [github.com/shuka0158/Keftemulator](https://github.com/shuka0158/Keftemulator)
-
----
-
-## ⚖️ Legal & Ethics
-
-Keftemulator is designed for **authorized OSINT research** only:
-- ✅ Security testing & penetration testing
-- ✅ Intelligence research & investigation
-- ✅ Educational purposes
-- ❌ Unauthorized surveillance
-- ❌ Data scraping without permission
-- ❌ Illegal access
-
-**Use responsibly and comply with local laws.**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF8200?style=flat-square&logo=flipper&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-**Built with ❤️ for open-source OSINT**
+## Featured work
+
+### 📡 RF & Embedded
+
+| Project | What it is | Stars |
+|---|---|---|
+| **[ARF-Shuka-Edition](https://github.com/shuka0158/ARF-Shuka-Edition)** | Custom Flipper Zero firmware — Flipper-ARF protocols merged with a custom UI. My most-starred project, with a [web flasher](https://shuka0158.github.io/ARF-Shuka-Edition/) front-end. `C` | [![](https://img.shields.io/github/stars/shuka0158/ARF-Shuka-Edition?style=flat-square&color=ff6b00&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/ARF-Shuka-Edition/stargazers) |
+| **[Flipper-SubGHz-Tools](https://github.com/shuka0158/Flipper-SubGHz-Tools)** | **RF Tracker** + **RF Surgeon** — original SubGHz FAP apps written from scratch, not forks. `C` | [![](https://img.shields.io/github/stars/shuka0158/Flipper-SubGHz-Tools?style=flat-square&color=ff6b00&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/Flipper-SubGHz-Tools/stargazers) |
+| **[FlipperPi](https://github.com/shuka0158/FlipperPi)** | A Flipper-style Sub-GHz app for the Raspberry Pi 5 driving a real CC1101 — it genuinely receives *and* transmits. `Python` | [![](https://img.shields.io/github/stars/shuka0158/FlipperPi?style=flat-square&color=ff6b00&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/FlipperPi/stargazers) |
+
+### 🖥️ Apps & Web
+### 🔍 OSINT & Security Research
+
+| Project | What it is | Stars |
+|---|---|---|
+| **[Keftemulator](https://github.com/shuka0158/Keftemulator)** | **Unified OSINT Platform** — 61 intelligence modules with recursive pivoting. Search username, email, domain, IP, phone, company, Georgian NAPR registry, and more. Graph visualization (Maltego-style) + map. Run locally, no cloud. `Python` + `Flask` | [![](https://img.shields.io/github/stars/shuka0158/Keftemulator?style=flat-square&color=ff6b00&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/Keftemulator/stargazers) |
+
+
+| Project | What it is | Stars |
+|---|---|---|
+| **[Nexus](https://github.com/shuka0158/Nexus)** | Futuristic productivity OS — calendar, tasks, habits, goals, notes, focus timer, AI agent, Google Calendar sync. Next.js 15 + Firebase + TypeScript. [Live →](https://nexus-future.web.app) | [![](https://img.shields.io/github/stars/shuka0158/Nexus?style=flat-square&color=00b4d8&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/Nexus/stargazers) |
+| **[ShukaHub](https://shukahub.com/)** | My own chat platform, running in production — with [Android](https://github.com/shuka0158/ShukaHub-Android-App) and [Linux desktop](https://github.com/shuka0158/ShukaHub-Linux-App) clients. Find me there: `@shuka0158` | — |
+| **[ytm-tui](https://github.com/shuka0158/ytm-tui)** | Terminal YouTube Music player for your own account — playlists, search, radio, `mpv` streaming and kitty-protocol album art. `Python` + Textual | [![](https://img.shields.io/github/stars/shuka0158/ytm-tui?style=flat-square&color=00b4d8&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/ytm-tui/stargazers) |
+| **[TEMP-OS](https://github.com/shuka0158/TEMP-OS)** | A browser-based operating system with real windowing, built in plain HTML/CSS/JS. [Try it →](https://shuka0158.github.io/TEMP-OS/) | [![](https://img.shields.io/github/stars/shuka0158/TEMP-OS?style=flat-square&color=00b4d8&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/TEMP-OS/stargazers) |
+| **[usb-sound-manager](https://github.com/shuka0158/usb-sound-manager)** | Cross-platform Electron tray app that plays custom per-category sounds when USB devices or chargers connect. `Linux + Windows` | [![](https://img.shields.io/github/stars/shuka0158/usb-sound-manager?style=flat-square&color=00b4d8&labelColor=0d1117&label=%E2%98%85)](https://github.com/shuka0158/usb-sound-manager/stargazers) |
+
+<sub>Also around: **[Simple GPU Stress Test](https://github.com/shuka0158/Simple-GPU-Stress-Test-For-Laptop.)** (one HTML file, open it, cook your laptop) and a lightweight **[translator](https://github.com/shuka0158/translator)**.</sub>
+
+---
+
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshuka0158&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=ff6b00&labelColor=0d1117)](https://github.com/shuka0158?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/shuka0158?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Followers)](https://github.com/shuka0158?tab=followers)
+[![Top project](https://img.shields.io/github/stars/shuka0158/ARF-Shuka-Edition?style=for-the-badge&color=ff6b00&labelColor=0d1117&label=Top%20project%20%E2%98%85)](https://github.com/shuka0158/ARF-Shuka-Edition/stargazers)
+[![Since](https://img.shields.io/badge/On%20GitHub-since%202023-00b4d8?style=for-the-badge&labelColor=0d1117)](https://github.com/shuka0158)
+
+[![Commits](https://img.shields.io/github/commit-activity/y/shuka0158/ARF-Shuka-Edition?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=Firmware%20commits%2Fyr)](https://github.com/shuka0158/ARF-Shuka-Edition/commits)
+[![Last commit](https://img.shields.io/github/last-commit/shuka0158/ytm-tui?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=Last%20push)](https://github.com/shuka0158?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### Find me
+
+**GitHub** [@shuka0158](https://github.com/shuka0158) · **ShukaHub** [@shuka0158](https://shukahub.com/) · **Discord** `shuka0158`
+
+<sub>Built and broken at 3am.</sub>
+
+</div>
